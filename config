@@ -1,5 +1,5 @@
-export DNS_DOMAIN=beyondelasitc.local
-export DNS_SRV="192.168.96.229"
+export DNS_DOMAIN=domain.local
+export DNS_SRV="x.x.x.x"
 export REG_CERT="-----BEGIN CERTIFICATE-----
 -----END CERTIFICATE-----" #the registry ca cert
 
